@@ -3,9 +3,9 @@
 
 AtliQ Hardware is growing rapidly in the recent years, and they have decided to implement the data analytics using PowerBi in their company for the first time to surpass their competitors in the market and to make data driven decisions. This project is hoped to give answers to the questions of stakeholder in terms all the aspects like finance, sales, marketing and supply chain.
 
-I worked on this project by following the Codebasics PowerBi Course, Link to the course is [here]()
+I worked on this project by following the Codebasics PowerBi Course.
 
-[Live Report Link]()
+[Live Report Link](https://www.novypro.com/profile_projects/vijayrangvani15?Popup=memberProject&Data=1719960341831x656398973445753600)
 
 ## Tech stacks
 
@@ -156,10 +156,8 @@ Fact table : It will have the data about the transactions
 
 - Data modeling plays a vital role and is considered as the basement of report. All the visuals will be build upon the data model.
 - Poor data modeling affects the over all performance of the report.
-- Following Good practices of data modeling is must. Refer this page to get to know the good practices [Blog](https://addendanalytics.com/blog/data-modelling-best-practices/)
+- Following Good practices of data modeling is must. 
 - In this project, we have followed Snowfall data modeling method.
-
-<img src="https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Data_model.png" class="center">
 
 ### Dashboard designing
 
@@ -177,40 +175,6 @@ In Home view, all the views button will be available. User will land on specific
 - Executive View
 - Products
 - Support
-
-## Overall Report
-
-![Overall Report.gif]()
-
-## Info Page
-
-![Info.gif]()
-
-## Finance View
-
-![Finace.gif]()
-## Sales View
-
-![Sales.gif]()
-
-## Marketing View
-
-![Marketing.gif]()
-
-## Supply chain View
-
-![Supply chain.gif]()
-
-## Executive View
-
-![Executive.gif]()
-
-## Products
-
-![Products]()
-
-you can find the full report file here : [Report]()
-
 
 ## Project Outcome
 
